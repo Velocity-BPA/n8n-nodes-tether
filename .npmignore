@@ -1,0 +1,20 @@
+# Source files (dist is published)
+credentials/
+nodes/
+test/
+
+# Config files
+.eslintrc.json
+.prettierrc
+tsconfig.json
+jest.config.js
+gulpfile.js
+
+# Development files
+.gitignore
+.github/
+coverage/
+*.log
+
+# Documentation (keep README)
+GITHUB_COMMANDS.md
